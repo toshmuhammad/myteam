@@ -183,7 +183,7 @@ img {
 
 .uzb {
   position: absolute;
-  top: 367px;
+  top: 381px;
   left: 917px;
 }
 
@@ -286,21 +286,6 @@ img {
   line-height: 32px;
 }
 
-/* .ready {
-  align-items: center;
-  display: flex;
-  justify-content: center;
-  margin-left: auto;
-  margin-right: auto;
-  width: 100%;
-  height: 100%;
-  background: #F67E7E;
-  width: 1440px;
-  top: 2129px;
-  gap: 413px;
-  opacity: 0px;
-  height: 200px;
-} */
 .get{
   width: auto;
   height: auto;
